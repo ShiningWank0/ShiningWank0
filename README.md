@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?ShiningWank0=hoge)
+
 <!--
 **ShiningWank0/ShiningWank0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
