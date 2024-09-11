@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?ShiningWank0=hoge)
+![Profile views](https://komarev.com/ghpvc/?username=ShiningWank0)
 
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShiningWank0&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiningWank0&count_private=true&show_icons=true&theme=dracula)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiningWank0&layout=compact&theme=dracula)
 <!--
 **ShiningWank0/ShiningWank0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
