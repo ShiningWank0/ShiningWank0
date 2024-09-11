@@ -6,7 +6,8 @@
 
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShiningWank0&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiningWank0&count_private=true&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiningWank0&count_private=true&show_icons=true&theme=dracula) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiningWank0&layout=compact&theme=dracula)
 
 
 <!--
