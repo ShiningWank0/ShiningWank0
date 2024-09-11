@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
+
 ![Profile views](https://komarev.com/ghpvc/?username=ShiningWank0)
 
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShiningWank0&theme=dracula)
